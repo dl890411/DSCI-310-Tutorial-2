@@ -1,5 +1,9 @@
 Definitions
 
+git push = publish the commit to the repository
+
+pit pull = pull commit from repository to local machine
+
 git add = add file changes to the staging area, just before commit
 
 git commit = commit the changes that has been staged, this will create a new stamp/history in the version control
